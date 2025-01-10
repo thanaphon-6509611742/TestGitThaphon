@@ -1,1 +1,1 @@
-Testgit 0XXX OldBranch BetterBranch
+Testgit 0XXX OldBranch BetterBranch CHANGETO NewBranch BetterBranch
